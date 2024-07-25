@@ -40,7 +40,7 @@ The preprocessing steps involve:
 • Tokenizing the text  
 • Converting to lowercase  
 • Removing stop words  
-• Lemmatization  
+• Stemming
 These steps are implemented using the NLTK library.
 
 ## Feauture Extraction:
